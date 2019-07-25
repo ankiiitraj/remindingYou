@@ -1,14 +1,14 @@
 # remindingYou
-***This might help you if you always forget about the CodeForces Competition while doing something on PC. 
+This might help you if you always forget about the CodeForces Competition while doing something on PC. 
 It will give you Notifications 10 mins before the competition starts.
 
 Latest-
 Now you don't need Python and those modules to be installed in your computer. YaaaY!
 
 How to Use this?
-**1- Download the zip file named "remindingYou.zip".
-**2- Extract the zip in one folder. This folder will contain the "admin.cmd", "a.cmd" and "remindingYou.exe".
-**3- Run the "admin.cmd" file and you are done. Exit the console.
+1- Download the zip file named "remindingYou.zip".
+2- Extract the zip in one folder. This folder will contain the "admin.cmd", "a.cmd" and "remindingYou.exe".
+3- Run the "admin.cmd" file and you are done. Exit the console.
 
 You are done, Whenever you LogIn your PC, the script will run and Remind you just before the Competition satrts.
 
